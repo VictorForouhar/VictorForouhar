@@ -1,2 +1,2 @@
-Hi, I am @VictorForouhar! I am currently a PhD student the [Institute for Computational Cosmology](https://www.icc.dur.ac.uk/) 
-and part of the [DMIDAS](https://alejandrobll.github.io/dmidas/) research group.
+Hi, I am @VictorForouhar! I am currently a postdoctoral researcher at the galaxy formation research group 
+in [Leiden Observatory](https://local.strw.leidenuniv.nl/). 
